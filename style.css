@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(45deg,yellow,white)
+}
+canvas {
+ margin-top: 100px;
+ margin-left: 400px;
+ padding: 10px;
+ border: 15px solid black;
+}
+h1{
+  margin-left: 600px;
+  font-size: 50px;
+
+}
